@@ -27,7 +27,7 @@ public class SortableDataTables {
 
         driver.get("http://the-internet.herokuapp.com/tables#delete");
 
-     
+
 
 
     }
