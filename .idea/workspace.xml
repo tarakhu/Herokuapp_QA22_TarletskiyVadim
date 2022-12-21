@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea84331-a61d-42cb-861f-8e7344fb06a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AddRemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Inputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SortableDataTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Typos.java" afterDir="false" />
+    <list default="true" id="eea84331-a61d-42cb-861f-8e7344fb06a7" name="Changes" comment="dz">
+      <change afterPath="$PROJECT_DIR$/logotitle.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DynamicControlsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FileUploader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/CollectionsHierarchy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SortableDataTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SortableDataTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,18 +48,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/firstProject/Herokuapp_QA22_TarletskiyVadim",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.AddRemoveElements">
-    <configuration name="AddRemoveElements" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FileDownload">
+    <configuration name="DynamicControlsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Herokuapp_QA22_TarletskiyVadim" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddRemoveElements" />
+      <option name="MAIN_CLASS_NAME" value="DynamicControlsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -64,10 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Checkboxes" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicControlsTest.typosTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Herokuapp_QA22_TarletskiyVadim" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Checkboxes" />
+      <option name="MAIN_CLASS_NAME" value="DynamicControlsTest" />
+      <option name="METHOD_NAME" value="typosTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDownload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Herokuapp_QA22_TarletskiyVadim" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileDownload" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -75,10 +92,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDown" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FileUploader" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Herokuapp_QA22_TarletskiyVadim" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DropDown" />
+      <option name="MAIN_CLASS_NAME" value="FileUploader" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -86,21 +103,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inputs" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Frames" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Herokuapp_QA22_TarletskiyVadim" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Inputs" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Typos" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Herokuapp_QA22_TarletskiyVadim" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Typos" />
+      <option name="MAIN_CLASS_NAME" value="Frames" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AddRemoveElements" />
-        <item itemvalue="TestNG.Checkboxes" />
-        <item itemvalue="TestNG.Typos" />
-        <item itemvalue="TestNG.Inputs" />
-        <item itemvalue="TestNG.DropDown" />
+        <item itemvalue="TestNG.FileDownload" />
+        <item itemvalue="TestNG.FileUploader" />
+        <item itemvalue="TestNG.Frames" />
+        <item itemvalue="TestNG.DynamicControlsTest" />
+        <item itemvalue="TestNG.DynamicControlsTest.typosTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +133,21 @@
       <option name="presentableId" value="Default" />
       <updated>1670091425799</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz">
+      <created>1670243563967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670243563967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dz">
+      <created>1670243608987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670243608987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,5 +160,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz" />
   </component>
 </project>
